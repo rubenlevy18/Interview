@@ -1,0 +1,7 @@
+
+.App{
+  width: 636px;
+  height: 500px;
+  flex-shrink: 0;
+  background: #FFF;
+}
